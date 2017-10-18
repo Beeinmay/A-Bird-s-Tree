@@ -9,8 +9,6 @@
 <body>
 	<?php include "navigation.php"; ?>
 	
-	//AST101 Study Site
-	
 	<h2>A Quick Summary of AST101 Midterm 2013</h2>
 	<ol>
 		<li>
