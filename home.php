@@ -22,9 +22,7 @@
 				<li>Our galaxy contains many stars</li>
 				<li>Our solar system contains many stars</li>
 			</ul>
-			<ul>
-				<li>Answer: (e) is FALSE. There is only one star in our solar system--the sun!</li>
-			</ul>
+			<p>Answer: (e) is FALSE. There is only one star in our solar system--the sun!</p>
 		</li>
 		<li></li>
 		<li></li>
